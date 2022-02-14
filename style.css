@@ -1,0 +1,18 @@
+/* code start */
+body{
+    color: white;
+    background-color: pink;
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name-of-object, #result_object_name, #result_object_accuracy{
+    color: yellow;
+}
+#camera{
+    width: 350px;
+    height: 300px;
+    border: 2px dashed black;
+}
+/* code end */
